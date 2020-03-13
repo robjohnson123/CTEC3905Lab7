@@ -27,3 +27,6 @@ li .txt {
 li:nth-child(even) {
   background: #eee;
 }
+body{
+  background-color: #808080;
+}
